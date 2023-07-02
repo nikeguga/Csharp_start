@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, Bitch !");
+﻿Console.WriteLine("Good morning, Vietnam !");
