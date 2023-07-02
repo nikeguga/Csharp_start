@@ -1,0 +1,15 @@
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\bin\Debug\net7.0\Hello.exe
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\bin\Debug\net7.0\Hello.deps.json
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\bin\Debug\net7.0\Hello.runtimeconfig.json
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\bin\Debug\net7.0\Hello.dll
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\bin\Debug\net7.0\Hello.pdb
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\Hello.csproj.AssemblyReference.cache
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\Hello.AssemblyInfoInputs.cache
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\Hello.AssemblyInfo.cs
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\Hello.dll
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\refint\Hello.dll
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\Hello.pdb
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\Hello.genruntimeconfig.cache
+C:\Users\nikeg\OneDrive\Рабочий стол\C# Git\Hello\obj\Debug\net7.0\ref\Hello.dll
